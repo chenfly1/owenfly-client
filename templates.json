@@ -1,0 +1,14 @@
+{
+    "PC": {
+      "place": "gitlab:git.aciga.com.cn:saas-application/alita-fronts/alita-sass-backstage",
+      "branch": "#template"
+    },
+    "H5": {
+      "place": "",
+      "branch": "#template"
+    },
+    "Mini-Programs": {
+      "place": "",
+      "branch": "#template"
+    }
+  }

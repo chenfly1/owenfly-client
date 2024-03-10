@@ -1,0 +1,29 @@
+{
+  "name": "owenfly-client",
+  "description": "owenfly",
+  "version": "1.0.1",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/chenfly1/owenfly-client"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "owen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "download-git-repo": "^1.0.0",
+    "inquirer": "^3.0.6",
+    "ora": "^1.2.0",
+    "@lite-base/lb-form": "1.0.0",
+    "@lite-base/http": "1.0.0",
+    "owenfly": "1.0.1",
+    "owenfly-web": "1.0.1",
+    "owenfly-base": "1.0.1",
+    "owenfly-alpha": "1.0.1",
+    "owenfly-bi": "1.0.1"
+  }
+  
+}
